@@ -1,8 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 AI Chatbot Project  
 
-## Getting Started
+This is my **first AI-integrated Chatbot**, built with **Next.js** and powered by **LLMs (OpenAI / Gemini / DeepSeek)**.  
+I am currently working on improving its capabilities step by step as part of my learning journey in **AI + Web Development**.  
 
-First, run the development server:
+---
+
+## 🚀 Getting Started  
+
+Run the development server:  
 
 ```bash
 npm run dev
@@ -12,25 +17,27 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser to see the chatbot in action.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing by modifying:
+app/page.tsx
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The page auto-updates as you edit the code.
 
-## Learn More
+## 🛠️ Getting Started  
 
-To learn more about Next.js, take a look at the following resources:
+• Framework: Next.js 15
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+• *Language:* TypeScript
+• *Styling:* Tailwind CSS
+• *AI Integration:* OpenAI
+• *Font Optimization:* next/font with Geist
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📚 Learning Goals
 
-## Deploy on Vercel
+• Understand Next.js App Router and modern web app development.
+• Learn how to integrate AI models into web applications.
+• Build an interactive AI-powered chatbot with real-world usability.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+✨ This is just the beginning of my AI development journey. Stay tuned for more updates! 🚀
