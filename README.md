@@ -17,6 +17,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
 
 Open http://localhost:3000 in your browser to see the chatbot in action.
 
@@ -25,7 +26,7 @@ app/page.tsx
 
 The page auto-updates as you edit the code.
 
-## 🛠️ Getting Started  
+##  🛠️ Getting Started  
 
 • Framework: Next.js 15
 
